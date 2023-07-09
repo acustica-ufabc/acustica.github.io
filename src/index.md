@@ -1,8 +1,17 @@
 ---
 layout: layouts/base.njk
-title: Página Inicial
+title: Lab de Acústica
 ---
 
-# Bem-vindo ao Meu Site
+# Laboratório de Acústica
 
-Esta é a página inicial do meu site estático usando Eleventy
+## Grupo
+
+- Nome 1
+- Nome 2
+- Nome 3
+
+## Relatórios
+
+- [Relatório 1](./relatorio1/)
+- [Relatório 2](./relatorio2/)
