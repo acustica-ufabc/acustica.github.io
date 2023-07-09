@@ -1,0 +1,22 @@
+# Ignorar pasta node_modules
+node_modules/
+
+# Ignorar arquivos de compilação e construção
+/_site/
+/dist/
+/build/
+
+# Ignorar arquivos de backup
+*.bak
+*.swp
+
+# Ignorar arquivos de cache
+.cache/
+.eleventy-cache/
+
+# Ignorar arquivos de configuração
+.env
+
+# Ignorar arquivos específicos
+.config.js
+.package-lock.json
