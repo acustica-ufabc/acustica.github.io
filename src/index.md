@@ -7,9 +7,9 @@ title: Lab de Acústica
 
 ## Grupo
 
-- Nome 1
-- Nome 2
-- Nome 3
+- Danilo RA
+- Kaleb RA
+- Lucas Ribeiro da Silva RA 21006316
 
 ## Relatórios
 
