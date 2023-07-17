@@ -13,5 +13,5 @@ title: Lab de Acústica
 
 ## Relatórios
 
-- [Relatório 1](./relatorio1/)
+- [Relatório 1](./src/relatorio1.md/)
 - [Relatório 2](./relatorio2/)
