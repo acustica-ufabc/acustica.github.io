@@ -1,7 +1,7 @@
 {
   "name": "acustica.github.io",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lucas Ribeiro da Silva RA 21006316",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
