@@ -72,3 +72,50 @@ $Dcalc = c * Δt = 340 * 0,01408 = 4,7872 m$
 $Dmed = 10,00 - 5,75 = 4,25 m$
 
 Nota-se uma variação de pouco mais de 0,5m, o que considerou-se aceitável. Possivelmente a medida com a trena sofreu variação pois a trena possuía apenas 3 metros de comprimento e, portanto, os comprimentos foram medidos de forma segmentada.
+
+
+
+[Figura: resposta em frequência obtida do sinal do microfone da frente](/imagem8.jpg)
+[Figura: resposta em frequência obtida do sinal do microfone de trás](/imagem9.jpg)
+
+
+### 6
+- Para o impulso obtido de forma direta pelo estouro da bombinha, obteve-se as curvas de decaimento através de aproximação visual, a partir das quais estimou-se o RT60 na posição de cada microfone.
+
+
+[zoom - estouro e decaimento no microfone da frente. Aproximação visual para o envelope de decaimento de -35dB.](/imagem10.jpg)
+
+- Da Figura 2 se afere:
+$t-5 = 55,765 s$
+$t-35 = 56,180 s$
+$RT60 = 2 * ( t–35 - t-5) = 0,830 s$
+
+
+[zoom – estouro e decaimento no microfone do fundo do auditório. Aproximação visual para o envelope de decaimento de -35dB.](/imagem11.jpg)
+- Da figura 3 afere-se:
+$t-5 = 55,760 s$
+$t-35 = 56,210 s$
+$RT60 = 2 * ( t–35 - t-5) = 0,900 s$
+
+[Figura: EDT aproximado pelos picos para o microfone da frente. O pico de maior amplitude saturou, então apesar de parecer acompanhar a tendência dos picos logo abaixo, a inclinação desta reta não é um dado confiável.](/imagem12.jpg)
+
+$t0 = 55,655 s$
+$t-10 = 55,760 s$
+$EDT = 6*(t-10 - t0) = 0,630 s$
+
+
+[Figura: EDT aproximado pelos picos para o microfone de trás.](/imagem13.jpg)
+
+$ t0 = 55,680 s $
+$ t-10 = 55,820 s $
+$ EDT = 6*(t-10 - t0) = 0,840 s $
+Considerando que apenas o resultado para o microfone de trás é confiável, o EDT não variou em relação ao RT60.
+
+
+
+
+### 8
+
+
+
+### 9
