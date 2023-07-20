@@ -56,7 +56,7 @@ $dmin = 2√(V/cTest)=517.1888/(340*0.1777) = 0.376m$
 #### A)
         Foi produzido um estrondo a partir do estouro de uma bombinha colocada sobre o suporte no palco. Os sinais captados pelos microfones da frente e de trás do auditório podem ser observados na Figura A, e representam diretamente a resposta ao impulso da sala.
 
-[IRs obtidas de forma direta pelo estouro da bombinha no auditório, captadas pelo microfone da frente (abaixo) e de trás (acima). Intensidade do sinal em escala logarítmica. Diferença de tempo de chegada do primeiro pico selecionada em destaque. Visualização da cauda de decaimento até alcançar o nível do ruído ambiente.](/imagem7.jpg)
+![IRs obtidas de forma direta pelo estouro da bombinha no auditório, captadas pelo microfone da frente (abaixo) e de trás (acima). Intensidade do sinal em escala logarítmica. Diferença de tempo de chegada do primeiro pico selecionada em destaque. Visualização da cauda de decaimento até alcançar o nível do ruído ambiente.](./imagem7.jpg)
 
 
 
@@ -75,15 +75,15 @@ Nota-se uma variação de pouco mais de 0,5m, o que considerou-se aceitável. Po
 
 
 
-[Figura: resposta em frequência obtida do sinal do microfone da frente](/imagem8.jpg)
-[Figura: resposta em frequência obtida do sinal do microfone de trás](/imagem9.jpg)
+![Figura: resposta em frequência obtida do sinal do microfone da frente](./imagem8.jpg)
+![Figura: resposta em frequência obtida do sinal do microfone de trás](./imagem9.jpg)
 
 
 ### 6
 - Para o impulso obtido de forma direta pelo estouro da bombinha, obteve-se as curvas de decaimento através de aproximação visual, a partir das quais estimou-se o RT60 na posição de cada microfone.
 
 
-[zoom - estouro e decaimento no microfone da frente. Aproximação visual para o envelope de decaimento de -35dB.](/imagem10.jpg)
+![zoom - estouro e decaimento no microfone da frente. Aproximação visual para o envelope de decaimento de -35dB.](./imagem10.jpg)
 
 - Da Figura 2 se afere:
 $t-5 = 55,765 s$
@@ -91,20 +91,20 @@ $t-35 = 56,180 s$
 $RT60 = 2 * ( t–35 - t-5) = 0,830 s$
 
 
-[zoom – estouro e decaimento no microfone do fundo do auditório. Aproximação visual para o envelope de decaimento de -35dB.](/imagem11.jpg)
+![zoom – estouro e decaimento no microfone do fundo do auditório. Aproximação visual para o envelope de decaimento de -35dB.](./imagem11.jpg)
 - Da figura 3 afere-se:
 $t-5 = 55,760 s$
 $t-35 = 56,210 s$
 $RT60 = 2 * ( t–35 - t-5) = 0,900 s$
 
-[Figura: EDT aproximado pelos picos para o microfone da frente. O pico de maior amplitude saturou, então apesar de parecer acompanhar a tendência dos picos logo abaixo, a inclinação desta reta não é um dado confiável.](/imagem12.jpg)
+![Figura: EDT aproximado pelos picos para o microfone da frente. O pico de maior amplitude saturou, então apesar de parecer acompanhar a tendência dos picos logo abaixo, a inclinação desta reta não é um dado confiável.](./imagem12.jpg)
 
 $t0 = 55,655 s$
 $t-10 = 55,760 s$
 $EDT = 6*(t-10 - t0) = 0,630 s$
 
 
-[Figura: EDT aproximado pelos picos para o microfone de trás.](/imagem13.jpg)
+![Figura: EDT aproximado pelos picos para o microfone de trás.](./imagem13.jpg)
 
 $ t0 = 55,680 s $
 $ t-10 = 55,820 s $
