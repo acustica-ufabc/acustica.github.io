@@ -5,19 +5,25 @@ title: Lab de Acústica
 
 # Laboratório de Acústica
 
+## Grupo
+
+- Danilo RA
+- Kaleb 21049916
+- Lucas Ribeiro da Silva RA 21006316
+
 ## Relatorio 1
 
- ### 3
-#### A) Visão Superior, teto e lateral
+ ### Questão 3
+#### Letra A) Visão Superior, teto e lateral
 ![Planta da sala](./imagem1.jpg)
 ![Distância dos microfones](./imagem2.jpg)
 
-#### B)
+#### Letra B)
 ![Palco](./imagem3.jpg)
 ![Rampa](./imagem4.jpg)
 ![Cadeira](./imagem5.jpg)
 
-#### C) Volume e área total (sem cadeiras)
+#### Letra C) Volume e área total (sem cadeiras)
 $Vtotal = AxLxC = 4.00 x 9.85 x 15.53 = 611.882m³$
 
 $Vinclinação = AxLxC/2 = 1.2 x 9.85 x 10.53/2 = 62.2323m³$
@@ -37,23 +43,23 @@ Atotal = A(parede fundo) + A(parede lateral) x 2 + A(teto) + A(parede lousa) + A
 = 474.362175
 $$
 
-#### D)
+#### Letra D)
 
 ![Imagem do auditorio](./imagem6.jpg)
 
 
-### 4
-#### A) 
+### Questão 4
+#### Letra A) 
 $Test = 0,163V/A = 0.163*517.1888/474.362175 = 0.1777Ss$
-#### B)
+#### Letra B)
 $dmin = 2√(V/cTest)=517.1888/(340*0.1777) = 0.376m$
-#### C) 
+#### Letra C) 
         Para todas as medições recomendam-se no mínimo 3 medições para cada microfone. (Colocar os áudios em ordem)
 
 
-### 5
+### Questão 5
 
-#### A)
+#### Letra A)
         Foi produzido um estrondo a partir do estouro de uma bombinha colocada sobre o suporte no palco. Os sinais captados pelos microfones da frente e de trás do auditório podem ser observados na Figura A, e representam diretamente a resposta ao impulso da sala.
 
 ![IRs obtidas de forma direta pelo estouro da bombinha no auditório, captadas pelo microfone da frente (abaixo) e de trás (acima). Intensidade do sinal em escala logarítmica. Diferença de tempo de chegada do primeiro pico selecionada em destaque. Visualização da cauda de decaimento até alcançar o nível do ruído ambiente.](./imagem7.jpg)
@@ -79,7 +85,7 @@ Nota-se uma variação de pouco mais de 0,5m, o que considerou-se aceitável. Po
 ![Figura: resposta em frequência obtida do sinal do microfone de trás](./imagem9.jpg)
 
 
-### 6
+### Questão 6
 - Para o impulso obtido de forma direta pelo estouro da bombinha, obteve-se as curvas de decaimento através de aproximação visual, a partir das quais estimou-se o RT60 na posição de cada microfone.
 
 
@@ -114,8 +120,8 @@ Considerando que apenas o resultado para o microfone de trás é confiável, o E
 
 
 
-### 8
+### Questão 8
 
 
 
-### 9
+### Questão 9
