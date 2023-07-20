@@ -8,10 +8,10 @@ title: Lab de Acústica
 ## Grupo
 
 - Danilo RA
-- Kaleb RA
+- Kaleb 21049916
 - Lucas Ribeiro da Silva RA 21006316
 
 ## Relatórios
 
-- [Relatório 1](./src/relatorio1.md/)
+- [Relatório 1](./relatorio1.html/)
 - [Relatório 2](./relatorio2/)

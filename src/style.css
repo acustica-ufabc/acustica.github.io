@@ -63,3 +63,8 @@ footer {
 }
 
 /* Outras regras de estilo escuro */
+
+.logo-container img {
+  max-width: 200px;
+  height: auto;
+}
