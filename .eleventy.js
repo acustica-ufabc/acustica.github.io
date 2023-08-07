@@ -9,7 +9,13 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addCollection("pages", function(collection) {
       return collection.getAllSorted().filter(item => !item.data.permalink);
     });
-  
+
+    eleventyConfig.setTemplateFormats([
+      "md",
+      "njk",
+      "html"
+    ]);
+
     return {
       passthroughFileCopy: true,
       dir: {
