@@ -20,6 +20,15 @@ title: Lab de Acústica
 
 
 ### Questão 6
+
+#### Montagem do Experimento
+
+![Foto da Montagem](../fotos/foto-montagem6.jpg)
+![Foto da Montagem (close)](../fotos/foto-montagem6-1.jpg)
+
+
+
+
  **Características dos microfones**
 
 _Shure SM57:_
