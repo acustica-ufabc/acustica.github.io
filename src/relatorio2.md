@@ -17,7 +17,11 @@ title: Lab de Acústica
 
 ### Questão 5
 
-
+![Foto 1 do Amplificador](./fotos/Conjunto2/Amp1.jpg)
+![Foto 2 do Amplificador](./fotos/Conjunto2/Amp2.jpg)
+![Foto do Gerador de Onda](./fotos/Conjunto2/GeradorSinais.jpg)
+![Foto 1 do Osciloscópio](./fotos/Conjunto2/osciloscopio1.jpg)
+![Foto 2 do Osciloscópio](./fotos/Conjunto2/osciloscopio2.jpg)
 
 ### Questão 6
 
