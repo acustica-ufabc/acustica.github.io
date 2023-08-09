@@ -33,7 +33,7 @@ title: Lab de Acústica
 
 #### Primeira parte:
 
-“Fishers of Men”, Rhonda Mitra
+**“Fishers of Men”, Rhonda Mitra**
 
 ![Audacity Rhonda Mitra](./fotos/rhonda-mitra.png)
 
@@ -45,7 +45,8 @@ O que podemos perceber para esta música é que no microfone AKG C214 o som para
 Comparando um pequeno trecho nos dois microfones, vemos uma pequena mudança na onda, aparentemente no microfone AKG, a duração de um pico é ligeiramente mais curta e aparentemente tem um filtro ali também, pode ser um dos motivos que nos leva a ter essa impressão de som fechado/abafado.
 
 
-Bachianas Brasileiras nº 2, “O trenzinho caipira”
+**Bachianas Brasileiras nº 2, “O trenzinho caipira”**
+
 ![Audacity Bachianas](./fotos/bachiana.png)
 
 
@@ -56,7 +57,7 @@ Podemos ver no trecho final da música que as amplitudes são diferentes:
 
 Nesse caso, o AKG parece dar uma sensação maior de preenchimento da música, diferente da primeira música, talvez para ouvir em um fone de ouvido, a gravação com o AKG seja melhor do que com o Shure.
 
-“Take me Home, Country Roads”, The Petersens
+**“Take me Home, Country Roads”, The Petersens**
 
 ![Audacity Country](./fotos/country.png)
 
@@ -69,13 +70,13 @@ Acima podemos ver o filtro do AKG atuando de novo e um pequeno trecho da música
 
 #### Segunda parte
 
-Melhor eu Ir, Péricles
+**Melhor eu Ir, Péricles**
     ![Audacity Melhor eu Ir](./fotos/pericles.png)
 
 
     Essa música é interessante de se analisar pois existe mais de um cantor e diversos instrumentos de percussão e outros de corda, para uma voz mais grave o AKG pareceu melhor, para uma voz mais aguda, o Shure pareceu melhor, dessa vez, a percussão não foi totalmente afetada pela AKG, diferentemente na música “Country Roads…”.
 
-Dynamite, BTS
+**Dynamite, BTS**
 
 ![Audacity BTS](./fotos/bts.png)
 
@@ -88,7 +89,7 @@ Após isso, o Shure parece mais interessante, pois no microfone AKG, o chimbal d
 Obs: Durante a gravação, um dos alunos entrou na sala falando, porém aparentemente nenhum dos dois microfones captou o áudio dele (provavelmente por ambos serem cardióides).
 
 
-Eu sei, Pato Fu
+**Eu sei, Pato Fu**
 ![Audacity Pato Fu](./fotos/patofu.png)
 
 
