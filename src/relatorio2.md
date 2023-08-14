@@ -8,7 +8,7 @@ title: Lab de Acústica
 ## Grupo
 
 - Danilo RA
-- Kaleb 21049916
+- Kaleb RA 21049916
 - Lucas Ribeiro da Silva RA 21006316
 
 ## Relatorio 2
@@ -16,12 +16,18 @@ title: Lab de Acústica
 ### Questão 4
 
 ### Questão 5
+Na questão 5, foram interligados três grupos contendo três dispositivos de reprodução sonora, conectados sequencialmente (três dispositivos), e em seguida, paralelamente (três grupos), formando um padrão de disposição em grade 3x3, conforme exemplificado na imagem a seguir.
+![Foto da montagem](./fotos/Conjunto2/configuracao.jpg)
 
-![Foto 1 do Amplificador](./fotos/Conjunto2/Amp1.jpg)
-![Foto 2 do Amplificador](./fotos/Conjunto2/Amp2.jpg)
+Para esta etapa foi usado um amplificador da marca Watson, modelo 2200, cuja potência atingia 600W. Adicionalmente, foi usado um osciloscópio da marca Keysight, modelo DSOX3024T. A conexão entre os dispositivos permitia o monitoramento do sinal amplificado nos âmbitos temporal e de frequência. 
+O sinal de entrada foi gerado por um dispositivo gerador de sinais da marca Tektronix, modelo AFG 3021B, gerando uma forma de onda senoidal com frequência de 1 kHz e amplitude de 3 Vpp. É digno de nota que, embora o relatório recomendava a utilização de um sinal com amplitude de 1 Vpp, os ensaios preliminares revelaram que o sinal gerado não possuía potência suficiente para induzir distorções no sinal amplificado pelo dispositivo, o que conduziu à decisão de elevar a amplitude do sinal para 3 Vpp.
 ![Foto do Gerador de Onda](./fotos/Conjunto2/GeradorSinais.jpg)
-![Foto 1 do Osciloscópio](./fotos/Conjunto2/osciloscopio1.jpg)
-![Foto 2 do Osciloscópio](./fotos/Conjunto2/osciloscopio2.jpg)
+
+No início do processo experimental, o botão de controle de amplificação do dispositivo de amplificação foi inicialmente ajustado para a configuração de atenuação máxima, e posteriormente, o nível de amplificação foi gradualmente aumentado até que distorções na configuração da forma de onda pudessem ser visualmente detectadas. Uma vez que o ponto de distorção foi identificado, o ajuste do botão foi redefinido para a configuração imediatamente anterior a essa manifestação, a qual, na escala indicadora do amplificador, correspondeu a -1dB, gerando a forma de onda e o espectro apresentados abaixo.
+![Foto 1 do Amplificador](./fotos/Conjunto2/Amp1.jpg) ![Foto 1 do Osciloscópio](./fotos/Conjunto2/osciloscopio1.png)
+
+A etapa seguinte da experimentação envolveu a repetição de todos os procedimentos antecedentes empregando um amplificador da marca Unic, da série ZX Storm. As figuras a seguir ilustram o processo de ajuste do nível de amplificação do referido dispositivo, bem como a configuração da forma de onda no domínio temporal e de frequência. Vale mencionar que, ao contrário do dispositivo Wattson, esse amplificador utiliza uma escala graduada de 0 a 10 para a regulação do ganho. Através dos testes realizados, foi constatado que o nível limiar de ganho para que ocorressem distorções no sinal situou-se em torno de 7 na escala desse equipamento. A distorção temporal dos sinais manifestou-se por meio de um leve achatamento nas depressões da onda produzida pelo amplificador Wattson, e nos pontos máximos das ondas geradas pelo segundo amplificador, da marca Unic.
+![Foto 2 do Amplificador](./fotos/Conjunto2/Amp2.jpg) ![Foto 2 do Osciloscópio](./fotos/Conjunto2/osciloscopio2.png)
 
 ### Questão 6
 
