@@ -7,9 +7,9 @@ title: Lab de Acústica
 
 ## Grupo
 
-- Danilo RA
-- Kaleb RA 21049916
-- Lucas Ribeiro da Silva RA 21006316
+- Danilo Misura de Oliveira - RA 11006514
+- Kaleb Alves - RA 21049916
+- Lucas Ribeiro da Silva - RA 21006316
 
 ## Relatorio 2
 
