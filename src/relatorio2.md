@@ -27,9 +27,9 @@ Para efetuar a medição da resposta do alto falante no software REW, o ganho fo
 Figura 2: resposta Near Field de frequência e fase obtida para o woofer.
 
 Nota-se que ocorrem nulos a cada frequência com comprimento de onda múltiplo do raio do woofer, conforme descrito por Keele [1]:
-fnulo = k x c / rW
-fnulo = k x 343 / 0,1118
-fnulo = k x 3068 Hz
+	fnulo = k x c / rW
+	fnulo = k x 343 / 0,1118
+	fnulo = k x 3068 Hz
 
 Acima de frequências com comprimento de onda menores que o raio do cone, este deixa de agir conforme o modelo de pistão infinitamente rígido, e uma parte da energia vibra a superfície do cone do alto falante. Os modos de ressonância da superfície produzem diversos radiadores menores distribuídos com fases diferentes, o que produz padrões de interferência que variam bruscamente em função da frequência. Por isso se observa um “engrossamento” da linha da resposta acima .
 
