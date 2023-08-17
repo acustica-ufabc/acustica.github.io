@@ -15,15 +15,15 @@ title: Lab de Acústica
 
 ### Questão 4
 ### d. Medições Near-Field
+
 O microfone foi posicionado apontado para o centro do cone do woofer, seguindo distância máxima recomendada por Keele [1] para medição Near Field considerando o diâmetro aproximado do woofer rW = 11,18cm, ou seja, dNF ≤ 1,1cm.
 
-
-
+![Figura 1](./fotos/Conjunto2/fig1.png)
 Figura 1: posicionamento do microfone para medição Near Field do woofer.
 
 Para efetuar a medição da resposta do alto falante no software REW, o ganho foi ajustado para obter um nível de SPL abaixo do nível de clip do pré amplificador, porém ainda mantendo o nível bem acima do mínimo indicado pelo software para uma boa relação sinal-ruído da medição. 
 
-
+![Figura 2](./fotos/Conjunto2/fig2.png)
 Figura 2: resposta Near Field de frequência e fase obtida para o woofer.
 
 Nota-se que ocorrem nulos a cada frequência com comprimento de onda múltiplo do raio do woofer, conforme descrito por Keele [1]:
@@ -35,25 +35,26 @@ Acima de frequências com comprimento de onda menores que o raio do cone, este d
 
 Foi também efetuada uma medição próxima ao duto. O posicionamento do microfone pode ser observado na Figura 3, e a resposta medida na Figura 4.
 
-
+![Figura 3](./fotos/Conjunto2/fig3.png)
 Figura 3: posicionamento do microfone para medição Near Field da saída do duto.
 
-
+![Figura 4](./fotos/Conjunto2/fig4.png)
 Figura 4: resposta Near Field de frequência e fase obtida na saída do duto.
 
 Para fins de comparação, a Figura 5 contém as respostas das duas medições.
 
+![Figura 5](./fotos/Conjunto2/fig5.png)
 Figura 5: comparação das respostas Near Field em frente ao woofer (vermelho) e em frente ao duto (azul).
 
  Uma caixa bass reflex é um sistema ressonante de 4ª ordem. Como a caixa acústica estava aberta, o alto-falante opera como um sistema de 1ª ordem, não entrando em ressonância com o duto. Assim, o que se obteve foi uma resposta do woofer similar à Near Field, porém com menor SPL devido ao afastamento do centro, e com mais irregularidades. Com a caixa fechada provavelmente veríamos um pico de intensidade na frequência de ressonância do duto.
 
 Da mesma forma, foi obtida a resposta Near Field do tweeter dentro da guia de onda, posicionando-se o microfone o mais próximo possível do domo. Como havia um phase plug em frente ao tweeter, não foi possível medir a distância ao domo, aproximando-se o microfone até quase encostar no phase plug.
 
-
+![Figura 6](./fotos/Conjunto2/fig6.png)
 Figura 6: posicionamento do microfone para medição Near Field do tweeter.
 
-
-Figura 6:  resposta Near Field de frequência e fase obtida para o tweeter.
+![Figura 7](./fotos/Conjunto2/fig7.png)
+Figura 7:  resposta Near Field de frequência e fase obtida para o tweeter.
 
 	Observa-se que a banda passante inicia acima de 1kHz, e abaixo disso cai a 12dB/8ª. Como a resposta foi obtida dentro da guia de onda, teremos uma ideia melhor da emissão do sistema formado por tweeter e guia de onda na resposta Far Fied.
 
@@ -62,23 +63,23 @@ e. Medições Far-Field
 
 	Foram realizadas medições Far Field com o microfone mantido no eixo axial do do woofer, mas agora a 1m de distância. O ganho do microfone e do amplificador foram alterados durante a calibração do REW para manter o nível do sinal com boa SNR, e portanto não é possível considerar a diferença das intensidades medidas.
 
+![Figura 8](./fotos/Conjunto2/fig8.png)
+Figura 8: posicionamento do microfone a 1m do wooder para medição da resposta Far Field.
 
-Figura 7: posicionamento do microfone a 1m do wooder para medição da resposta Far Field.
+![Figura 9](./fotos/Conjunto2/fig9.png)
+Figura 9: resposta Far Field de frequência e fase obtida para o woofer.
 
+	Pode-se observar na medição Far Field uma grande variação devido às inúmeras interferências produzidas por reflexões na sala, produzindo efeito pente. Para melhor leitura da tendência da resposta, foi aplicado smoothing de ⅓ de oitava, obtendo-se a curva apresentada na Figura 10.
 
-Figura 8: resposta Far Field de frequência e fase obtida para o woofer.
-
-	Pode-se observar na medição Far Field uma grande variação devido às inúmeras interferências produzidas por reflexões na sala, produzindo efeito pente. Para melhor leitura da tendência da resposta, foi aplicado smoothing de ⅓ de oitava, obtendo-se a curva apresentada na Figura 9.
-
-
-Figura 9: resposta Far Field de frequência e fase obtida para o woofer - smoothing de ⅓ de oitava.
+![Figura 10](./fotos/Conjunto2/fig10.png)
+Figura 10: resposta Far Field de frequência e fase obtida para o woofer - smoothing de ⅓ de oitava.
 
 	Nota-se uma uma queda de aproximadamente 6dB/8ª abaixo de 600Hz, conforme esperado para a resposta de um dipolo acústico [2].
 
-	Para fins de comparação, estão plotadas na Figura 10 as respostas Near Field e Far Field do woofer:
+	Para fins de comparação, estão plotadas juntas na Figura 11 as respostas Near Field e Far Field do woofer:
 
-
-Figura 10: resposta Near Field (vermelho) e Far Field (verde) do woofer - smoothing de ⅙ de oitava. As duas medições tiveram ganhos individuais diferentes, não representando o nível real da diferença de intensidade.
+![Figura 11](./fotos/Conjunto2/fig11.png)
+Figura 11: resposta Near Field (vermelho) e Far Field (verde) do woofer - smoothing de ⅙ de oitava. As duas medições tiveram ganhos individuais diferentes, não representando o nível real da diferença de intensidade.
 
 	Sabe-se que há uma relação inversa de proporcionalidade da pressão sonora com a distância, não representada na medição.
 
@@ -88,25 +89,25 @@ flim = 10922 / Dpol
 flim = 4300 / 8
 flim = 537,5 Hz
 
-	Assim, para obter a resposta completa do woofer, uma curva de resposta foi produzida utilizando-se a resposta Near Field até a flim , e desta frequência para cima a resposta Far Field, e pode ser vista na Figura 11. Como a resposta Far Field do woofer operando em dipolo cai abaixo de 600Hz, a flim utilizada para dividir os gráficos foi de 600Hz, mesmo que possa haver um pequeno erro entre a flim real de 537,5Hz e a flim usada de 600Hz. Dessa forma, a resposta completa obtida representa melhor a resposta do woofer em baffle infinito (“half space”, ou espaço 2π).
+	Assim, para obter a resposta completa do woofer, uma curva de resposta foi produzida utilizando-se a resposta Near Field até a flim , e desta frequência para cima a resposta Far Field. Como a resposta Far Field do woofer operando em dipolo cai abaixo de 600Hz, a flim utilizada para dividir os gráficos foi de 600Hz, havendo portanto algum erro entre a flim real de 537,5Hz e a flim usada de 600Hz, considerado desprezível. Dessa forma, a curva obtida na Figura 12 deve representar a resposta do woofer em baffle infinito (“half space”, ou espaço 2π).
 
+![Figura 12](./fotos/Conjunto2/fig12.png)
+Figura 12: curva obtida pela junção das respostas Near Field e Far Field em 600Hz.
 
-Figura 11: curva obtida pela junção das respostas Near Field e Far Field em 600Hz.
+	Para o tweeter, também foi aferida a resposta Far Field, a 1m de distância, com a resposta de frequência e fase apresentada na Figura 13.
 
-	Também foi aferida a resposta Far Field do tweeter a 1m de distância, obtendo-se a resposta de frequência e fase apresentada na Figura 12.
-
-
-Figura 12: resposta Far Field de frequência e fase obtida para o tweeter.
-
-	O excesso de interferências das reflexões da sala dificultou da mesma forma a visualizaçao da tendência da resposta, sendo então aplicado smoothing de ⅙ de oitava para melhor visualização, apresentado na Figura 13.
-
-
+![Figura 13](./fotos/Conjunto2/fig13.png)
 Figura 13: resposta Far Field de frequência e fase obtida para o tweeter.
+
+	O excesso de interferências das reflexões da sala dificultou da mesma forma a visualizaçao da tendência da resposta, sendo então aplicado smoothing de ⅙ de oitava para melhor visualização.
+
+![Figura 14](./fotos/Conjunto2/fig14.png)
+Figura 14: resposta Far Field de frequência e fase obtida para o tweeter - smoothing de ⅙ de oitava.
 
 	Como não foi possível determinar o diâmetro do tweeter, além dele estar acoplado a uma guia de onda, não foi feita a junção dos gráficos Near Field e Far Field como para o woofer. A Figura 14 mostra as duas respostas de frequência para fins de comparação.
 
-
-Figura 14: resposta Near Field (marrom) e Far Field (vermeho) do tweeter - smoothing de ⅙ de oitava. As duas medições tiveram ganhos individuais diferentes, não representando o nível real da diferença de intensidade.
+![Figura 15](./fotos/Conjunto2/fig15.png)
+Figura 15: resposta Near Field (marrom) e Far Field (vermeho) do tweeter - smoothing de ⅙ de oitava. As duas medições tiveram ganhos individuais diferentes, não representando o nível real da diferença de intensidade.
 
 	O tweeter apresenta banda passante acima de 1kHz, mantendo até 20kHz, apesar do pico e do vale em torno de 15kHz devido a provável ressonância na guia de onda.
 
