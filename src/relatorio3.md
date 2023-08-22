@@ -57,21 +57,26 @@ Tabela 2: intensidade a 1,5m para cada 10° ao redor do centro do line array com
 |Ângulo [°]|SPL [dBA]|
 |---------:|---------|
 |       -90|       56|
--80	70
--70	53
--60	65
--50	59
--40	66
--30	64
--20	58
--10	45
-0	55
-10	61
-20	61
-30	60
-40	54
-50	62
-60	64
-70	69
-80	64
-90	67
+|       -80|       70|
+|       -70|       53|
+|       -60|       65|
+|       -50|       59|
+|       -40|       66|
+|       -30|       64|
+|       -20|       58|
+|       -10|       45|
+|         0|       55|
+|        10|       61|
+|        20|       61|
+|        30|       60|
+|        40|       54|
+|        50|       62|
+|        60|       64|
+|        70|       69|
+|        80|       64|
+|        90|       67|
+
+![Figura 3](./fotos/lab3/fig3.png)
+Figura 3: curva de resposta de intensidade [dBA] X ângulo [°] para a medição com defasagem de 30° e janela fechada.
+
+Nota-se uma atenuação em -10° e dois lobos aproximadamente simétricos em torno desta posição. Tal resultado não condiz com o lobo centralizado em 30° que se esperava para esta configuração.
