@@ -45,3 +45,6 @@ Tabela1: intensidade a 1,5m para cada 10° ao redor do centro do line array sem 
 |        80|                    74,5|                    66,5|
 |        90|                    76,3|                    72,0|
 
+![Figura 2](./fotos/lab3/fig2.png)
+Figura 2: curvas de resposta de intensidade [dBA] X ângulo [°] para as medições com janela aberta e com janela fechada.
+
