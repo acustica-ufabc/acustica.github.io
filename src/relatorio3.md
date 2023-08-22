@@ -24,7 +24,7 @@ A Tabela 1 abaixo contém o resultado das medições para os alto falantes sem d
 
 Tabela1: intensidade a 1,5m para cada 10° ao redor do centro do line array sem defasagem entre os alto falantes.
 |Ângulo [°]|SPL [dBA] janela aberta |SPL [dBA] janela fechada|
-|---------:|------------------------|------------------------|
+|----------|------------------------|------------------------|
 |       -90|                    74,1|                    69,4|
 |       -80|                    72,9|                    72,3|
 |       -70|                    75,5|                    65,5|
@@ -55,7 +55,7 @@ Em seguida, o grupo repetiu o processo de coleta de dados do passo anterior, ent
 
 Tabela 2: intensidade a 1,5m para cada 10° ao redor do centro do line array com defasagem de 30° entre os alto falantes.
 |Ângulo [°]|SPL [dBA]|
-|---------:|---------|
+|----------|---------|
 |       -90|       56|
 |       -80|       70|
 |       -70|       53|
