@@ -24,7 +24,7 @@ A Tabela 1 abaixo contém o resultado das medições para os alto falantes sem d
 
 Tabela1: intensidade a 1,5m para cada 10° ao redor do centro do line array sem defasagem entre os alto falantes.
 |Ângulo [°]|SPL [dBA] janela aberta |SPL [dBA] janela fechada|
-|---------;|------------------------|------------------------|
+|---------:|------------------------|------------------------|
 |       -90|                    74,1|                    69,4|
 |       -80|                    72,9|                    72,3|
 |       -70|                    75,5|                    65,5|
@@ -48,3 +48,30 @@ Tabela1: intensidade a 1,5m para cada 10° ao redor do centro do line array sem 
 ![Figura 2](./fotos/lab3/fig2.png)
 Figura 2: curvas de resposta de intensidade [dBA] X ângulo [°] para as medições com janela aberta e com janela fechada.
 
+É possível observar que a janela aberta ou fechada contribui com resultados diferentes. Nos ângulos negativos as medições com janela aberta ficaram com valores menores do que quando comparadas com a janela fechada. Nos ângulos positivos não foi possível observar o mesmo padrão.
+Diante deste resultado, não foi possível identificar um padrão que determine as direções de interferências construtivas e destrutivas das ondas conforme se esperava. Não havendo diferenças de simetria significativas no espaço próximo ao line array, o esperado era um comportamento simétrico para ambos os casos. Uma possível causa para estes resultados é se os alto falantes tiverem resposta de fase diferente, dado que podem haver irregularidades na produção de cada unidade.
+
+Em seguida, o grupo repetiu o processo de coleta de dados do passo anterior, entretanto, com os áudios de cada alto falante defasados para intensificar o som no ângulo de 30° (Line Phased Array). Os resultados podem ser observados na Tabela 2 abaixo:
+
+Tabela 2: intensidade a 1,5m para cada 10° ao redor do centro do line array com defasagem de 30° entre os alto falantes.
+|Ângulo [°]|SPL [dBA]|
+|---------:|---------|
+|       -90|       56|
+-80	70
+-70	53
+-60	65
+-50	59
+-40	66
+-30	64
+-20	58
+-10	45
+0	55
+10	61
+20	61
+30	60
+40	54
+50	62
+60	64
+70	69
+80	64
+90	67
