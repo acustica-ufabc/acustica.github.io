@@ -13,4 +13,8 @@ title: Lab de Acústica
 
 ## Relatorio 3
 
-### Questão 
+### 5. Testes em Arrays de Alto Falantes
+
+Primeiramente, foi feita a calibragem do nível individual de cada alto-falante utilizando o celular com o app Decibel-X. Após isso foi feito a medição do Line Array composto por 8 alto-falantes (Figura 1-a) que fizeram a reprodução da mesma onda sonora sem defasagens.
+![Figura 1](./fotos/lab3/fig1.png)
+Figura 1: a) Line array de 8 falantes na bancada para medição. b) cortina colocada a 2m de distância à frente do line array para reduzir a dispersão do som na sala de forma a reduzir as reflexões captadas na medição.
