@@ -59,7 +59,7 @@ Figura 7:  resposta Near Field de frequência e fase obtida para o tweeter.
 Observa-se que a banda passante inicia acima de 1kHz, e abaixo disso cai a 12dB/8ª. Como a resposta foi obtida dentro da guia de onda, teremos uma ideia melhor da emissão do sistema formado por tweeter e guia de onda na resposta Far Fied.
 
 
-e. Medições Far-Field
+###e. Medições Far-Field
 
 Foram realizadas medições Far Field com o microfone mantido no eixo axial do do woofer, mas agora a 1m de distância. O ganho do microfone e do amplificador foram alterados durante a calibração do REW para manter o nível do sinal com boa SNR, e portanto não é possível considerar a diferença das intensidades medidas.
 
@@ -248,3 +248,9 @@ __Isso leva a:__
 
 
 Considerando a pesquisa feita e a análise subjetiva do som, acho que tudo que percebemos bate com as especificações técnicas dos microfones, sentimos que o AKG se encaixou melhor para partes da música onde havia apenas voz e poucos instrumentos, e que ele também não era muito bom para percussão, já no caso do Shure, sons mais agudos, agressivos e harmonizações pareciam mais interessantes. 
+
+### Referências
+
+[1] KEELE, D. B. Low-Frequency Loudspeaker Assessment by Nearfield Sound-Pressure Measurement. Journal of the Audio Engineering Society, [s. l.], 15 maio 1973.
+
+[2] LINKWITZ, S. Models for a dipole loudspeaker design. In: Linkwitz Lab. [S. l.], 2000. Disponível em: https://www.linkwitzlab.com/models.htm. Acesso em: 6 ago. 2023.
